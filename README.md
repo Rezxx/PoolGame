@@ -1,5 +1,10 @@
-INFO3220 Assignment 3 Extension
+# Title
+Pool Game 
 
+# Description 
+An Imaginary Pool Game under Qt enviornment.
+
+# Features
 1. Visual AI Aid
   - Press 'S' to turn on/off the feature
   - This extension constantly calculates the best angle for the Cue Ball to sink a ball.
@@ -9,6 +14,7 @@ INFO3220 Assignment 3 Extension
   - Press 'A' to add a random ball into the game
   - the ball is completely random in colour, strength, position, radius and number of children
   - The ball will not be outside of the table or on other ball or pocket.
+
 3. Teleport the Cue ball
   - Cue ball is now unsinkable, each time the cue ball gets into the pocket, it will teleport to other randomly chosen pocket, so the game will keep running.
 
