@@ -18,4 +18,4 @@ An Imaginary Pool Game under Qt enviornment.
 3. Teleport the Cue ball
   - Cue ball is now unsinkable, each time the cue ball gets into the pocket, it will teleport to other randomly chosen pocket, so the game will keep running.
 
-This a single player game, have fun of not hitting the ball.(I blame Patrick)
+This a single player game, have fun of not hitting the ball.
