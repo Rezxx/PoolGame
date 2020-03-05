@@ -2,7 +2,7 @@
 Pool Game 
 
 # Description 
-An Imaginary Pool Game under Qt enviornment.
+A Virtual Pool Game under Qt enviornment.
 
 # Features
 1. Visual AI Aid
