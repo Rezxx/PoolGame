@@ -18,4 +18,8 @@ A Virtual Pool Game under Qt enviornment.
 3. Teleport the Cue ball
   - Cue ball is now unsinkable, each time the cue ball gets into the pocket, it will teleport to other randomly chosen pocket, so the game will keep running.
 
+# Get Started
+- Make sure you have Qt5 installed
+- `PoolGame $ qmake PoolGame.pro`
+- `make`
 This a single player game, have fun of not hitting the ball.
