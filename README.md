@@ -20,6 +20,7 @@ A Virtual Pool Game under Qt enviornment.
 
 # Get Started
 - Make sure you have Qt5 installed
-- `PoolGame $ qmake PoolGame.pro`
-- `make`
+- `PoolGame/PoolGame$ qmake PoolGame.pro`
+- `PoolGame/PoolGame$ make`
+
 This a single player game, have fun of not hitting the ball.
