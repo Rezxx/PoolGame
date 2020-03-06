@@ -14,8 +14,11 @@ A Virtual Pool Game under Qt enviornment.
   - Press 'A' to add a random ball into the game
   - the ball is completely random in colour, strength, position, radius and number of children
   - The ball will not be outside of the table or on other ball or pocket.
+  
+3. Undo
+  - Press 'R' to Undo the hit and reverse back to the previous stage.
 
-3. Teleport the Cue ball
+4. Teleport the Cue ball
   - Cue ball is now unsinkable, each time the cue ball gets into the pocket, it will teleport to other randomly chosen pocket, so the game will keep running.
 
 # Get Started

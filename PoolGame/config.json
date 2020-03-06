@@ -9,12 +9,12 @@
         },
         "friction":0.1,
         "pockets": [
-        {"position":{"x":5,"y":5},"radius":40},
-        {"position":{"x":995,"y":5},"radius":40},
-        {"position":{"x":995,"y":495},"radius":40},
-        {"position":{"x":5,"y":495},"radius":40},
-        {"position":{"x":500,"y":5},"radius":40},
-        {"position":{"x":500,"y":495},"radius":40}
+        {"position":{"x":5,"y":5},"radius":30},
+        {"position":{"x":995,"y":5},"radius":30},
+        {"position":{"x":995,"y":495},"radius":30},
+        {"position":{"x":5,"y":495},"radius":30},
+        {"position":{"x":500,"y":5},"radius":30},
+        {"position":{"x":500,"y":495},"radius":30}
         ]
     },
     "balls" : [
